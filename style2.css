@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+header{
+    font-size: 25px ; color: red;
+}
+article{
+    font-size: italic; color: blueviolet;
+}
